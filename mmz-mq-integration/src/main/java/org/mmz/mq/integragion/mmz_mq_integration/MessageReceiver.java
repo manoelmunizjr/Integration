@@ -16,7 +16,7 @@ public class MessageReceiver {
 
 	private static String url = ActiveMQConnection.DEFAULT_BROKER_URL;
     
-	private static String subject = "JCG_QUEUE";
+	private static String subject = "fornecedorSituacaoPedido";
  
     private String messageReturned = new String();
     

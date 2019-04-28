@@ -15,7 +15,7 @@ public class MessageSender {
 
 	private static String url = ActiveMQConnection.DEFAULT_BROKER_URL;
      
-    private static String subject = "JCG_QUEUE"; // Queue Name.You can create any/many queue names as per your requirement. 
+    private static String subject = "enviarPedido"; // Queue Name.You can create any/many queue names as per your requirement. 
      
     private String messageAdded = new String();
     
